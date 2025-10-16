@@ -962,5 +962,3 @@ async function loadSystemPresets() {
         return {}; // No fallback, just return empty object
     }
 }
-
-
